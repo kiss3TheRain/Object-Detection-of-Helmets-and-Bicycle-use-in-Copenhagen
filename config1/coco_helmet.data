@@ -1,0 +1,6 @@
+classes=4
+train=data/helmet/train.txt
+valid=data/helmet/val.txt
+names=config/coco.names
+backup=backup/
+
